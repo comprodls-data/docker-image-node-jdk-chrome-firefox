@@ -1,6 +1,6 @@
 # This image is used for Health Check Test
-# link- https://hub.docker.com/r/atlassianlabs/docker-node-jdk-chrome-firefox/
-# code- https://bitbucket.org/atlassian/docker-node-jdk-chrome-firefox/src/master/
+ link- https://hub.docker.com/r/atlassianlabs/docker-node-jdk-chrome-firefox/
+ code- https://bitbucket.org/atlassian/docker-node-jdk-chrome-firefox/src/master/
 
 
 
